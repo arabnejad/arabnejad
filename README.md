@@ -40,6 +40,19 @@ You can find my research papers and academic contributions on [Google Scholar](h
 
   Designed and implemented a modular IT support and ticket management system using Python FastAPI microservices architecture. The system features role-based access control (Admin, Developer, IT), real-time event tracking via MQTT, and stateless authentication using JWT tokens. Built with modern technologies including PostgreSQL for data persistence, Redis for session management, and Docker Compose for orchestration. The frontend utilizes Jinja2 templates for role-specific dashboards, while the backend comprises independent services for authentication, user management, and ticket handling. Implemented comprehensive logging, health checks, and service dependencies to ensure system reliability and maintainability.
 
+#### [TaskSchedX Library](https://github.com/arabnejad/TaskSchedX)
+<img src="imgs/TaskSchedX_logo.png" alt="TaskSchedX Logo" width="10%">
+
+  The TaskSchedX Library is a high-performance C++11+ task scheduling and execution framework for multithreaded applications. It provides robust, thread-safe capabilities for scheduling and executing tasks based on priority, timing, recurrence, and timeout constraints.
+
+  Core Scheduling Capabilities
+  - Time-based Execution: Schedule tasks at precise times (with millisecond accuracy)
+  - Priority-based Ordering: Tasks with lower priority numbers are executed first
+  - Repeatable Tasks: Automatically re-execute tasks at defined intervals
+  - Task Cancellation: Cancel tasks before execution
+
+
+
 #### [CppColorLog - Colorful C++ Logger](https://github.com/arabnejad/cppColorLog)
 
 <img src="imgs/cppColorLog_logo.png" alt="cppColorLog Logo" width="10%">
